@@ -1,0 +1,23 @@
+#doctor-registration-form {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+ }
+ 
+ #doctor-registration-form label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+ }
+ 
+ #doctor-registration-form input {
+    width: 100%;
+    height: 40px;
+    font-size: 16px;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+ }
+ 
